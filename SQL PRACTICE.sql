@@ -26,5 +26,7 @@ INSERT INTO student
 VALUES
 (1,"AMAN"),
 (2,"MARYAM"),
-(3,"ALI");
+(3,"SHYFA"),
+(4,"ALI");
+
 SELECT*FROM student;
